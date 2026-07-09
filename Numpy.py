@@ -1,1 +1,1 @@
-# Numpy
+import numpt as np
